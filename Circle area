@@ -1,0 +1,5 @@
+radius=1.1
+pi=3.14
+area=pi*r**2
+Print("radius",r)
+print("area of circle is:",area)
