@@ -1,0 +1,10 @@
+List1=[12,7,-5,-14,64]
+print("positive numbers in List1")
+for i in List1:
+ if i>0:
+ print(i)
+List2=[12,-95,14,3]
+print("positive numbers in List2")
+for j in List2:
+ if j>0:
+ print(j) 
