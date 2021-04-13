@@ -1,0 +1,3 @@
+file_name=Str(input("enter the file name"))
+print(file_name)
+print("the extension of file name is python"))
